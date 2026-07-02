@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **PHP | JavaScript.**
+  🦄 Linguagens: **PHP | JavaScript**
 </p>
 
 <p align="left">
