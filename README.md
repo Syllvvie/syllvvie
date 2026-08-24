@@ -5,13 +5,13 @@
   Em busca da primeira oportunidade
 </p>
 <p align="left">
-  🦄 Linguagens: <strong>PHP | JavaScript</strong>
+  Linguagens: <strong>PHP | JavaScript</strong>
 </p>
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code | Git | GitHub | Trello.</strong>
+  Ferramentas: <strong>Visual Studio Code | Git | GitHub</strong>
 </p>
 <p align="left">
-  💌 Contato: ⤵️
+  Contato:
 </p>
 <p align="left">
   <a href="mailto:paivaborges.jv@gmail.com" title="Gmail">
