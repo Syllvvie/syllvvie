@@ -5,7 +5,7 @@
   Em busca da primeira oportunidade
 </p>
 <p align="left">
-  Linguagens: <strong>PHP | JavaScript</strong>
+  Linguagens: <strong>PHP | JavaScript | Node.js </strong>
 </p>
 <p align="left">
   Ferramentas: <strong>Visual Studio Code | Git | GitHub</strong>
